@@ -20,9 +20,9 @@
 ## Stats :
 <div>
 
-![Samuel Guerra Estatistica](https://github-readme-stats.vercel.app/api?username=SamG1002&show_icons=true)
+![Samuel Guerra Estatistica](https://github-readme-stats.vercel.app/api?username=SamG1002&show_icons=true&theme=tokyonight)
 
-![Linguagens mais Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SamG1002&layout=compact)
+![Linguagens mais Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SamG1002&layout=compact&theme=tokyonight)
 
 </div>
 

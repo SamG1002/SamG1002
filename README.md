@@ -79,7 +79,7 @@
 ### Projects :
 <div>
 <a href="https://github.com/Almeida154/refinances">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida154&repo=refinances" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida154&repo=refinances&theme=tokyonight" />
 </a>
 </div>
 <!-- game -->

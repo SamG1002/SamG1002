@@ -78,8 +78,8 @@
 <!-- projetos -->
 ### Projects :
 <div>
-<a href="https://github.com/Almeida154/refinances">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Almeida154&repo=refinances&theme=tokyonight" />
+<a href="https://github.com/SamG1002/Refinances">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamG1002&repo=Refinances&theme=tokyonight" />
 </a>
 </div>
 <!-- game -->

@@ -1,32 +1,47 @@
-# Welcome to my profile!😄 
-## I'm Samuel Guerra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+# <div align="center">Welcome to my profile!😄 </div>
+## <div align="center">Hi, I'm Samuel Guerra<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></div>
+<h3 align="center">I am a FullStack Developer e Data Science</h3>
 
-<div style='display: inline-block; margin: 0;'>
-    <a href='https://www.linkedin.com/in/samuel-guerra-aquino' rel="nofollow">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width: 100%;margin: 5px;">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5511944618046&amp;text=Olá%2C%20Samuel!" rel="nofollow">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" data-canonical-src="https://img.shields.io/badge/+55_11_944618046?style=flat&amp;labelColor=000&amp;logo=whatsapp&amp;logoColor=white&amp;link=https://api.whatsapp.com/send?phone=5511944618046&amp;text=Olá%2C%20Samuel!"style="max-width: 100%;margin: 5px;">
-    </a>
-    <a href="https://t.me/Samu_War">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width: 100%;margin: 5px;">
-    </a>
-    <a href="mailto:samuzinhoguerra@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;margin: 5px;">
-    </a>
-    
-</div>
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
-## Stats :
-<div>
+- 💬 Ask me about **Python, Java, SQL e Dados**
 
-![Samuel Guerra Estatistica](https://github-readme-stats.vercel.app/api?username=SamG1002&show_icons=true&theme=tokyonight)
-
-![Linguagens mais Utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=SamG1002&layout=compact&theme=tokyonight)
-
-</div>
+- 📫 How to reach me **samuelguerra.dev@gmail.com**
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://api.whatsapp.com/send?phone=5511916422548&amp;text=Olá%2C%20Samuel!" rel="nofollow"><img align="center" src="https://github.com/appicons/Whatsapp/blob/master/icons/whatsapp_194x194.png" alt="samwar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-guerra-aquino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-guerra-aquino/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/samwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samwar" height="30" width="40" /></a>
+</p>
+
+```JAVA
+
+public class MinhasInformacoes {
+    public static void main(String[] args) {
+        // Meus dados
+        String nome = "Samuel Guerra de Aquino";
+        int idade = 19;
+        // Formaçoes acadêmicas
+        String[][] formacao = {
+            {"ETEC", "Técnico em Desenvolvimento de Sistemas"},
+            {"FIAP", "Graduação em Banco de Dados e Data Science"}
+        };
+
+        String motivacao = "Amo Programação e sou sedento por conhecimento; " +
+                           "Um dia serei a mudança que eu gostaria de ver para meu futuro.";
+
+        System.out.println("Nome: " + nome);
+        System.out.println("Idade: " + idade + " anos");
+        System.out.println("Motivação: " + motivacao);
+        System.out.println("Formação Acadêmica:");
+        for (String[] curso : formacao) {
+            System.out.println("- " + curso[0] + ": " + curso[1]);
+        }
+    }
+}
+```
 <!-- linguagens -->
 ## Technology :
 
@@ -82,9 +97,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamG1002&repo=Refinances&theme=tokyonight" />
 </a>
 </div>
-<!-- game -->
-<div>
 
-![Snake animation](https://github.com/SamG1002/SamG1002/blob/output/github-contribution-grid-snake.svg)
-
-</div>

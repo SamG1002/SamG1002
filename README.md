@@ -92,9 +92,10 @@ public class MinhasInformacoes {
 
 <!-- projetos -->
 ### Projects :
-<div>
-<a href="https://github.com/SamG1002/Refinances">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamG1002&repo=Refinances&theme=tokyonight" />
-</a>
+<div width='50' height='40'>
+    <a href="https://github.com/SamG1002/Refinances">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamG1002&repo=Refinances&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamG1002&repo=SpotifyML&theme=tokyonight" />
+    </a>
 </div>
 

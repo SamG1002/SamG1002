@@ -30,7 +30,7 @@ public class MinhasInformacoes {
         };
 
         String motivacao = "Amo Programação e sou sedento por conhecimento; " +
-                           "Um dia serei a mudança que eu gostaria de ver para meu futuro.";
+                           "Seja a mudança que deseja ser.";
 
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade + " anos");
